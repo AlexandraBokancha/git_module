@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 
-## commit changes without modyfing a fil in between
+## commit changes without modyfing a file in between
 
 git add -p 
 git commit -m "changes to save"
